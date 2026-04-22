@@ -100,7 +100,14 @@
             }
         }
     ],
-    "isAbout": [],
+    "isAbout": [
+        {
+            "identifier": {
+                "identifier": "https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=9606"
+            },
+            "name": "Homo sapiens"
+        }
+    ],
     "types": [
         {
             "information": {
